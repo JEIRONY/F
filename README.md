@@ -88,5 +88,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `EDITORES Y DUEÑOS DEL BOT` 
 [![Abiguelreyes75](https://github.com/Karenshita.png?size=100)](https://github.com/Karenshita)
+ ```bash
 [![DIEGO-OFC](https://github.com/JEIRONY.png?size=100)](https://github.com/JEIRONY)
-  
+  ```bash
