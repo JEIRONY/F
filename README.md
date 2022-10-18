@@ -12,7 +12,7 @@
 ### `Si necesitas ayuda mandame mensaje`
    ༒☬༒ ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  ༒☬༒
 
-[![blog](https://img.shields.io/badge/GataBot-Update-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp 
 )](https://wa.me/+573152139466) <a href="https://wa.me/+573152139466"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Palatino&size=20&duration=4000&color=00F5FF&center=falso&vCenter=falso&lines=SOLO+SI+NECESITAS+AYUDA.)](https://git.io/typing-svg)
 </a>
