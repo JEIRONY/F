@@ -13,7 +13,7 @@
    ༒☬༒ ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  ༒☬༒
 
 [![blog](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp 
-)](https://wa.me/+573152139466) <a href="https://wa.me/+573152139466"> height="29px">
+)](https://wa.me/+573152139466) <a href="https://wa.me/+573152139466"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Palatino&size=20&duration=4000&color=00F5FF&center=falso&vCenter=falso&lines=SOLO+SI+NECESITAS+AYUDA.)](https://git.io/typing-svg)
 </a>
 
