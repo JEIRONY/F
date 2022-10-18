@@ -87,7 +87,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `EDITOR DEL BOT` 
-[![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)]
+![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)
 ```bash
 `THE DARK KING ___ By JEIRONY` 
 ```
