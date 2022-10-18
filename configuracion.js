@@ -6,17 +6,11 @@ import fs from 'fs'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 3 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 4 🔰', true],
-  ['19786077075'],
-  ['51936767238'],
-  ['584125778026']
+  ['573152139466', '🔰  JEISON - Creador 🔰', true]
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
+global.suittag = ['573152139466'] 
+global.mods = ['573152139466'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -77,12 +71,12 @@ global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = 'JEISON '
+global.wm = 'JEISON EL PARCHE '
+global.igfg = 'JEISON '
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
+global.md = 'https://chat.whatsapp.com/KNLvmDmaqkWImhLGlTbPPC'
 global.dorramd = md
 
 //_____________________________________________
@@ -93,7 +87,7 @@ global.fg = '☆━━━━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = 'JEISON'
 global.DORRA = dorre
 
 //Imagenes___________________
