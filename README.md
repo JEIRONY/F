@@ -80,12 +80,15 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > 𝙰𝚃𝙴𝙽𝚃𝙾 𝙰 𝙻𝙰𝚂 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝚀𝚄𝙴 𝚂𝙴 𝙷𝙰𝙶𝙰𝙽 𝙴𝙽 𝙴𝚂𝚃𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾
 > 𝙴𝙻 𝙰𝙳𝙳 𝚈 𝙴𝙻 𝙺𝙸𝙲𝙺 𝙿𝚄𝙴𝙳𝙴𝙽 𝙾𝙲𝙰𝚂𝙸𝙾𝙽𝙰𝚁 𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚂𝙴 𝚅𝙰𝚈𝙰 𝙰 𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙿𝙾𝚁 𝙴𝙻𝙻𝙾 𝚂𝙴 𝙰𝙲𝚃𝙸𝚅𝙰 𝙲𝙾𝙽 #𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 
 > JEIROY 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
+ 
+ ### `ANALISIS DE GITHUB`
+ [![balhisyhrl GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEIRONY&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app/api?username=JEIRONY&show_icons=true&hide=issues&theme=radical)
+[![balhisyhrl Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIRONY&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIRONY&layout=compact&theme=radical)
+
 
 ## `EDITOR DEL BOT` 
 [![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)]
 ```bash
 `THE DARK KING ___ By JEIRONY` 
 ```
-  <a href="https://github.com/JEIRONY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEIRONY&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
