@@ -12,10 +12,9 @@
 ### `Si necesitas ayuda mandame mensaje`
    ༒☬༒ ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  ༒☬༒
 
-<a href="http://wa.me/573152139466" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>  <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Palatino&size=20&duration=4000&color=00F5FF&center=falso&vCenter=falso&lines=SOLO+SI+NECESITAS+AYUDA."
+<a href="http://wa.me/573152139466" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a><img src="https://readme-typing-svg.herokuapp.com/?font=Palatino&size=20&duration=4000&color=00F5FF&center=falso&vCenter=falso&lines=SOLO+SI+NECESITAS+AYUDA."
  height="90px"
-</p>
+
 
 ### `Unete a los grupos oficales para conocer novedades del Bot`
  ༒☬༒ ᴍɪꜱ ɢʀᴜᴘᴏꜱ ᴅᴇ ᴀʏᴜᴅᴀ  ༒☬༒
