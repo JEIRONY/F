@@ -86,9 +86,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 [![balhisyhrl Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIRONY&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIRONY&layout=compact&theme=radical)
 
 
-## `EDITOR DEL BOT` 
-![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)
-```bash
-`THE DARK KING ___ By JEIRONY` 
-```
+## `EDITORES Y DUEÑOS DEL BOT` 
+[![Abiguelreyes75](https://github.com/Karenshita.png?size=100)](https://github.com/Karenshita)
+[![DIEGO-OFC](https://github.com/JEIRONY.png?size=100)](https://github.com/JEIRONY)
   
