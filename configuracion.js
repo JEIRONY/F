@@ -7,9 +7,9 @@ import fs from 'fs'
 //cambia los números que sean propietarios 
 global.owner = [
   ['573152139466', '🔰  JEISON - Creador 🔰', true]
-
+  ['573152139466', '🔰  chk - premium 🔰', true ]
 ] 
-global.suittag = ['573152139466'] 
+global.suittag = ['573152139466']
 global.mods = ['573152139466'],['‪50663781153‬'] 
 global.prems = ['573147821417'] 
 
